@@ -1,0 +1,7 @@
+{
+  "externally_connectable": {
+    "matches": ["https://litescribe.io/*"],
+    "ids": ["*"]
+  },
+  "minimum_chrome_version": "66"
+}
